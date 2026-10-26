@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://eventease-api-fxsn.onrender.com/api";
 
 const emptyForm = {
   title: "",
